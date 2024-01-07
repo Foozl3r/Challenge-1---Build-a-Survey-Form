@@ -1,0 +1,28 @@
+  body {
+	background: black;
+	color: white;
+	margin: 0;
+	height: 100vh;
+  }
+  
+  form {
+	margin: 0 auto;
+	max-width: 500px;
+	min-width: 300px;
+	background: #162d50ff;
+	padding: 25px 5px; /* Consistent padding */
+  }
+  
+  fieldset {
+	border: none;
+  }
+  
+  label {
+	display: block;
+	padding-bottom: 5px;
+  }
+  
+  p#description, h1#title {
+	text-align: center;
+  }
+  
