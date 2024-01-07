@@ -1,2 +1,1 @@
-# Challenge--1---Build-a-Survey-Form
- FCC - Responsive Web Design - Challenge #1
+Project created in order to complete the Challenge #1 of the freeCodeCamp Responsive Web Design certification.
